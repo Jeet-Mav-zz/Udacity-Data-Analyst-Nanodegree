@@ -25,3 +25,13 @@ BayWheels or FordGoBike is bike renting service in the areas of San Francisco th
 ## Key Insights
 
 Subscribers use the this service heavily on weekdays whereas customers dont use that much but their usage rises during the late hours. Many trips concentrated around 7-9am and 15-19pm which happends to be the work hours suggesting that subscribers use this service for their daily routine instead of leisure. Which means customer are taking advantage of this service in a form of leisure and general travel instead of work related and their usage generally rises during the later hours and also they tend to use this service on weekends also not like the subscribers which dont prefer it as much.
+
+
+## Files
+* **readme.md** - This Markdown file contains sections that you should fill out as you select your dataset, complete your exploration, and plan your explanatory analysis.
+
+* **exploration_template.ipynb** - This Jupyter Notebook contains section templates to help you organize your exploration, starting from loading in the data, working through univariate visualizations, and ending with bivariate and multivariate exploration.
+
+* **slide_deck.ipynb** - This Jupyter Notebook contains starter cells to help you organize your slide deck deliverable. These cells provide an example of how the slide deck should be organized, including pre-set slideshow settings.
+
+* **output_toggle.tpl** - This template file can be used with nbconvert to export your slide deck. This adds extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output (which should mostly be visualizations in the case of this project).
